@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/drawable/correct_answer.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/drawable/defaul_option_border.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/drawable/finish.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/drawable/option_boder.xml" value="0.2890625" />
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/drawable/selected_default_option_border.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/drawable/wrong_answer.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/layout/activity_quiz_question.xml" value="0.19" />
+        <entry key="..\:/Users/T3D Computer/AndroidStudioProjects/Quizzz/app/src/main/res/layout/activity_result.xml" value="0.18194444444444444" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
